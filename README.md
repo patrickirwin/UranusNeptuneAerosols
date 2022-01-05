@@ -13,3 +13,5 @@ neptune_reconstructlineA.spx: This is the combined central-meridian-line-average
 uranus_combined_all.spx: This is the final combined Uranus spectral file (NEMESIS format) used in the final parameterised fit, containing the final HST/STIS, IRTF/SpeX and Gemini/NIFS processed datasets. It appears in Fig. 6.
 
 neptune_combined_all.spx: This is the final combined Neptune spectral file (NEMESIS format) used in the final parameterised fit, containing the final HST/STIS, IRTF/SpeX and Gemini/NIFS processed datasets. It appears in Fig. 12.
+
+Further data files to be added.
